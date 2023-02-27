@@ -1,6 +1,6 @@
 from config.url import Url
 from config.playwright import Playwright
-from expectations import Expectations
+from config.expectations import Expectations
 
 url = Url()
 playwright = Playwright()
